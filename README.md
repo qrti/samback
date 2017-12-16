@@ -12,7 +12,8 @@ unzip and copy for example to: ~/samback
 **or**
 
 copy scripts to current directory  
-`$ wget -r --no-parent -A.sh https://raw.github.com/qrti/samback/master/script`
+`$ wget https://raw.github.com/qrti/samback/master/script/backup.sh`  
+`$ wget https://raw.github.com/qrti/samback/master/script/restore.sh`
 
 **or**
 
