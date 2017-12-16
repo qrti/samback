@@ -21,7 +21,7 @@ check if git is installed
 `$ git --version`
 
 if git is not installed  
-`$ sudo apt-get install git-all`
+`$ sudo apt install git-all`
 
 clone repository to current directory  
 `$ git clone https://github.com/qrti/samback.git`
